@@ -12,7 +12,7 @@ function Navbar() {
   return (
     <div className="navbar">
       <div className="leftSide" id={openLinks ? "open" : "close"}>
-      EMPLOYEE
+      ~Emploify~
       </div>
       <div className="rightSide">
           <Link to="/"> HOME </Link>

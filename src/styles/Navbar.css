@@ -12,11 +12,11 @@
   display: flex;
   align-items: center;
   padding-left: 150px;
+  color: aliceblue;
+  font-family: cursive;
+  font-size: 30px;
 }
 
-.navbar .leftSide img {
-  width: 70px;
-}
 
 .navbar .rightSide {
   flex: 50%;
