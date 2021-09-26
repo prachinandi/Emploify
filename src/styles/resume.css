@@ -1,0 +1,41 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.header{
+    background-color: grey;
+    color: white;
+    height: 5rem;
+}
+
+.person{
+    color:white;
+    
+    font-size: 4rem;
+}
+
+.main{
+    display: flex;
+}
+
+.profile{
+    float: right;
+    width: 50%;
+    display: flex;
+}
+
+.pic{
+    box-shadow: 5 rem .5rem .5 rem .5rem black;
+    height: 10rem;
+    width: 10rem;
+    align-items: center;
+    position: relative;
+    margin-left: 50%;
+    margin-top: 5rem;
+}
+
+.resume{
+    float: left;
+    width: 50%;
+}

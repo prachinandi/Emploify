@@ -1,0 +1,89 @@
+*{
+    margin: 0;
+    padding: 0;
+    padding-bottom: .5rem;
+  }
+  
+  /* PROFESSION */
+  
+  .profession{
+    display: flex;
+    background-color: black;
+    color: white;
+    height: 5rem;
+    text-align: center;
+    font-size: 2rem;
+  }
+  span {
+    display: inline-block;
+    vertical-align: middle;
+    line-height: normal;
+  
+    margin-left: 2rem;
+  }
+  
+  .fashion{
+  background-color: grey;
+  height: 4rem;
+  font-size: 1.8rem;
+  
+  }
+  
+  .main{
+    display: flex;
+  }
+  .row{
+    width: 50%;
+    float: left;
+  }
+  
+  .profile1{
+    background-color:white;
+    box-shadow: 0.5rem 0.5rem 0.5rem 0.5rem black;
+    height: 6rem;
+    width: 30rem;
+    align-items: center;
+    display: flex;
+    margin-top: 4rem;
+    margin-left: 4rem;
+    display: flex;
+    cursor: pointer;
+           
+              
+  }
+  
+  .profile1:hover {
+    opacity: 1;
+    transition: .5s ease;
+    background-color: yellow;
+  }
+  
+  .img1{
+    border-radius: 60%;
+    align-items: center;
+    height: 6rem;
+    margin-top: 1rem;
+  
+  }
+  
+  .person{
+    color: black;
+    font-size: 2rem;
+    align-items: center;
+    text-align: center;
+    margin-left: 4rem;
+  }
+  
+  .map{
+   display: flex;
+   width: 40rem;
+   height: 35rem;
+   float: right;
+   margin-top: 5rem;
+   box-shadow:.5rem .5rem .5rem .5rem black;
+   box-sizing: border-box;
+   
+  }
+  
+  
+  

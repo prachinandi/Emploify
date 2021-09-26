@@ -7,6 +7,7 @@ import About from "./pages/About";
 import Regs from "./pages/Reg";
 import { BrowserRouter as Router, Route, Switch } from "react-router-dom";
 
+
 function App() {
   return (
     <div className="App">
@@ -17,6 +18,7 @@ function App() {
           <Route path="/hire" exact component={Hire} />
           <Route path="/about" exact component={About} />
           <Route path="/Register" exact component={Regs} />
+          
         </Switch>
         
         <Footer />
