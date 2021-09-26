@@ -7,19 +7,8 @@ function About() {
       <div className="aboutBottom">
         <h1> ABOUT US</h1>
         <p>
-          Lorem ipsum dolor sit amet consectetur adipisicing elit. Maxime
-          mollitia, molestiae quas vel sint commodi repudiandae consequuntur
-          voluptatum laborum numquam blanditiis harum quisquam eius sed odit
-          fugiat iusto fuga praesentium optio, eaque rerum! Provident similique
-          accusantium nemo autem. Veritatis obcaecati tenetur iure eius earum ut
-          molestias architecto voluptate aliquam nihil, eveniet aliquid culpa
-          officia aut! Impedit sit sunt quaerat, odit, tenetur error, harum
-          nesciunt ipsum debitis quas aliquid. Reprehenderit, quia. Quo neque
-          error repudiandae fuga? Ipsa laudantium molestias eos sapiente
-          officiis modi at sunt excepturi expedita sint? Sed quibusdam
-          recusandae alias error harum maxime adipisci amet laborum.
-          Perspiciatis minima nesciunt dolorem! Officiis iure rerum voluptates a
-          cumque velit
+        With Emploify we ease the access and process for both employees and employers (direct user). Even for people who feel marginalised and underpaid at their workplace can make the best use of their skills through Emploify and contribute to the society in a better way. You just have to enter your personal details, location, base price and resume. Users who are in lookout for work requiring your skills will book a slot with you and after your confirmation you can directly work. With an easy to use UI, people with least technical knowledge can also make the most out of it. For users, they just have to navigate to the ‘hire’ tab and choose the profession. They can search according to location and then book a slot with the professional. The Home page also provides career counselling tips because we believe that Action follows Motivation so our website helps you gear up for the work!
+
         </p>
       </div>
     </div>
