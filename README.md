@@ -20,18 +20,18 @@ Integrating backend with frontend
 React, Node, Express, Mutter, MongoDB, Google maps API, Google cloud,
 High fidelity wireframe 
 
-### using Figma: 
+* Figma: 
 We used Figma to design our pages and the layout that we had planned during our brainstorming phase.
 
-### Front-end development using React
+* Front-end development using React
 
-### Material-UI and CSS: 
+* Material-UI and CSS: 
 One of the front end developers worked on the UI/UX, layout, CSS and design while the other researched on integration of suitable APIs.
 
-### Back-end development
+* Back-end development
 using Node.js, Express, Mutter, MongoDB: The back-end developer created the MongoDB database on Google Cloud to store the details of the professional and integrated the backend APIs with the frontend pages.
 
-### Google Cloud Platform:
+* Google Cloud Platform:
 We used google map api to integrate map into the website . For this we used Api key through the google cloud console.  This map will provide the locations of people who have registered into the website. So it will become easy foe the company to find near about people.
  
 # Accomplishment:
