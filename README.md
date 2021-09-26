@@ -3,7 +3,7 @@ When service made easier!!
 
 # Aimed for- Shellhacks2021
 <p align="center">
-<img src="https://github.com/prachi237/Emploify/blob/master/src/assets/full_width.png" width="1100" height="200" >
+<img src="https://github.com/prachi237/Emploify/blob/master/src/assets/full_width.png" width="700" height="200" >
 </p>
 
 # Inspiration:
