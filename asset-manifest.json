@@ -1,0 +1,33 @@
+{
+  "files": {
+    "main.css": "/Emploify/static/css/main.00dc9f4d.chunk.css",
+    "main.js": "/Emploify/static/js/main.ef084faa.chunk.js",
+    "main.js.map": "/Emploify/static/js/main.ef084faa.chunk.js.map",
+    "runtime-main.js": "/Emploify/static/js/runtime-main.16b89d86.js",
+    "runtime-main.js.map": "/Emploify/static/js/runtime-main.16b89d86.js.map",
+    "static/js/2.0ec36353.chunk.js": "/Emploify/static/js/2.0ec36353.chunk.js",
+    "static/js/2.0ec36353.chunk.js.map": "/Emploify/static/js/2.0ec36353.chunk.js.map",
+    "static/js/3.a73e3615.chunk.js": "/Emploify/static/js/3.a73e3615.chunk.js",
+    "static/js/3.a73e3615.chunk.js.map": "/Emploify/static/js/3.a73e3615.chunk.js.map",
+    "index.html": "/Emploify/index.html",
+    "static/css/main.00dc9f4d.chunk.css.map": "/Emploify/static/css/main.00dc9f4d.chunk.css.map",
+    "static/js/2.0ec36353.chunk.js.LICENSE.txt": "/Emploify/static/js/2.0ec36353.chunk.js.LICENSE.txt",
+    "static/media/Architects.bc04659c.jfif": "/Emploify/static/media/Architects.bc04659c.jfif",
+    "static/media/chef.e43fdb0b.jfif": "/Emploify/static/media/chef.e43fdb0b.jfif",
+    "static/media/fashionDesigner.d437d00c.jfif": "/Emploify/static/media/fashionDesigner.d437d00c.jfif",
+    "static/media/fitnessTrainer.ac7f8e16.jfif": "/Emploify/static/media/fitnessTrainer.ac7f8e16.jfif",
+    "static/media/hom.923c54f5.png": "/Emploify/static/media/hom.923c54f5.png",
+    "static/media/interiorDsg.d774152d.jfif": "/Emploify/static/media/interiorDsg.d774152d.jfif",
+    "static/media/lawyers.9237c1b3.jpg": "/Emploify/static/media/lawyers.9237c1b3.jpg",
+    "static/media/register.b2be5dab.jpg": "/Emploify/static/media/register.b2be5dab.jpg",
+    "static/media/structuralEng.c13c783a.jfif": "/Emploify/static/media/structuralEng.c13c783a.jfif",
+    "static/media/teacher.23d0bc8d.jfif": "/Emploify/static/media/teacher.23d0bc8d.jfif",
+    "static/media/webdev.318b08e2.jfif": "/Emploify/static/media/webdev.318b08e2.jfif"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.16b89d86.js",
+    "static/js/2.0ec36353.chunk.js",
+    "static/css/main.00dc9f4d.chunk.css",
+    "static/js/main.ef084faa.chunk.js"
+  ]
+}
